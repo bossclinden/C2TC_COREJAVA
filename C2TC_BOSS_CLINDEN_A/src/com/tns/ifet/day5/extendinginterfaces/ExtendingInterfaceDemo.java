@@ -1,5 +1,5 @@
 //multiple inheritance - kj
-package com.tns.ifet.day5.extendinginterfaces;dt
+package com.tns.ifet.day5.extendinginterfaces;
 public class ExtendingInterfaceDemo implements ChildInterface {
 	// Override InterfaceOne method
 	public void print() { 
